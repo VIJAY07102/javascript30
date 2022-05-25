@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Nerko+One&family=Pacifico&display=swap");
 body {
 font-size: 10px;
-background: url(https://i.imgur.com/vtuJKo5.jpeg);
+background: url(https://raw.githubusercontent.com/VIJAY07102/javascript30/main/Day-1\(drum_kit\)/background_image.jpeg);
 background-size: 100%;
 /* background-size: contain; */
 background-repeat: no-repeat;
@@ -14,13 +14,13 @@ font-family: "Nerko One", cursive;
 font-family: "Pacifico", cursive;
 font-size: 40px;
 margin-left: 2rem;
-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
 }
 .keys {
 display: flex;
 flex: 1;
-min-height: 100vh;
-align-items: flex-start;
+min-height: 50vh;
+align-items: flex-center;
 justify-content: center;
 }
 .key {
